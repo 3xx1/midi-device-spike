@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/3xx1/midi-device-spike/issues"
   },
-  "homepage": "https://github.com/3xx1/midi-device-spike#readme"
+  "homepage": "https://github.com/3xx1/midi-device-spike#readme",
+  "dependencies": {
+    "web-midi-api": "^1.4.4"
+  }
 }
